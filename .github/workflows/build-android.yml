@@ -1,4 +1,3 @@
-```yaml
 name: Build Android APK (LITE, debug)
 
 on:
@@ -38,4 +37,3 @@ jobs:
         with:
           name: apk-debug
           path: build/app/outputs/flutter-apk/app-debug.apk
-```
