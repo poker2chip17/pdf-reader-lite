@@ -1,3 +1,4 @@
+### 2) `lib/main.dart` (Lite)
 ```dart
 import 'dart:io';
 import 'dart:typed_data';
